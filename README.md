@@ -1,2 +1,2 @@
-# Clone_Spotify
-Clone do Spotify
+# LandingPage_Spotify
+Criando Landing Page do Spotify
